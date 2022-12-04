@@ -148,7 +148,7 @@ Library: lib_burst_generated
 --compilation-defines=CINEMACHINE_UNITY_ANIMATION
 --compilation-defines=CINEMACHINE_UNITY_IMGUI
 --compilation-defines=TIMELINE_FRAMEACCURATE
---linker-options=PdbAltPath="BaxterAlpha0.0.2_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="BaxterAlpha_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=C:\Users\elean\Documents\Baxter-Virtual\BaxterAlpha0.0.2\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=C:\Users\elean\Documents\Baxter-Virtual\BaxterAlpha0.0.2\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -344,7 +344,7 @@ Library: lib_burst_generated
 --compilation-defines=CINEMACHINE_UNITY_ANIMATION
 --compilation-defines=CINEMACHINE_UNITY_IMGUI
 --compilation-defines=TIMELINE_FRAMEACCURATE
---linker-options=PdbAltPath="BaxterAlpha0.0.2_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="BaxterAlpha_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=C:\Users\elean\Documents\Baxter-Virtual\BaxterAlpha0.0.2\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=C:\Users\elean\Documents\Baxter-Virtual\BaxterAlpha0.0.2\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
