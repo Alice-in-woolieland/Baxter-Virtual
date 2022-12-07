@@ -12,6 +12,7 @@ public class FirstPersonCamera : MonoBehaviour
     void Start()
     {
         // Lock and Hide the Cursor
+        Cursor.visible = false;
     }
 
     void Update()
